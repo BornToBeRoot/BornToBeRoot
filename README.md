@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BornToBeRoot</h1>
 <h2 align="center"> DevOps Engineer & Maintainer of <a href="https://github.com/BornToBeRoot/NETworkManager">NETworkManager</a></h3>
 
-<h4 align="center">"Infrastructure as Code isn’t a tool - it’s a mindset. If it’s not in version control, it doesn’t exist."</h4>
+<h4 align="center">If it's not in version control, it doesn't exist.</h4>
 
 <h3 align="left">📫 How to reach me</h3>
 <p align="left">
@@ -20,13 +20,3 @@
   <a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-<a href="https://github.com/BornToBeRoot">
-  <img src="https://github-readme-stats.vercel.app/api?username=BornToBeRoot&show_icons=true&theme=tokyonight" alt="BornToBeRoot GitHub Stats" />
-</a>
-
-<a href="https://github.com/BornToBeRoot/NETworkManager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BornToBeRoot&repo=NETworkManager&theme=tokyonight" alt="NETworkManager Repo" />
-</a>
